@@ -16,7 +16,7 @@ let opened = false;
   DATOS DE LA INVITACIÓN
    ===================================================== */
 
-const CANTIDAD_PERSONAS = 2;
+const CANTIDAD_PERSONAS = 5;
 
 
 /* Mostrar datos en la portada */
